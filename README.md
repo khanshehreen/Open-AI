@@ -38,8 +38,7 @@ pip install openai PyPDF2 python-dotenv
 
 Create a .env file in the root directory and add your OpenAI API key:
 
-**OPENAI_API_KEY=your_openai_api_key_here
-**
+OPENAI_API_KEY=your_openai_api_key_here
 
 Ensure naval.pdf is placed in the root directory (or update the file_path in main.py).
 
